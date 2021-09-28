@@ -1,2 +1,3 @@
-# fraction-API
-An API for operations on fractions
+# pop2-project-2020-21-fraction
+
+The project description will be placed on the module webpage.
